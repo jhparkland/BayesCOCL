@@ -25,3 +25,5 @@ model.add_cpds(cpd_S, cpd_C, cpd_E, cpd_L_on_SCE)
 
 #모델 검사
 model.check_model()
+
+#참고 https://boggy-cs.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4-%EC%99%84%EC%A3%BC%EB%B0%98-5%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C
